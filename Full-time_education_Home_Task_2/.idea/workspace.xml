@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/From_1_to_99_Conditional_statements.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/From_99_to_1_Conditional_statements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="34">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -36,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/From_1_to_99_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="60" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="60" />
+              <caret line="2" column="60" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -45,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/src/From_99_to_1_Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -53,17 +53,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Random_numbers_of_8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Random_numbers_8_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Switch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Switch.java" />
         <option value="$PROJECT_DIR$/src/Random_nubres_of_8.java" />
         <option value="$PROJECT_DIR$/src/From_99_to_1_Arrays.java" />
+        <option value="$PROJECT_DIR$/src/Random_numbers_8_1.java" />
       </list>
     </option>
   </component>
@@ -105,6 +115,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,11 +128,16 @@
               <item name="Full-time_education_Home_Task_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Full-time_education_Home_Task_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Full-time_education_Home_Task_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.From_99_to_1_Arrays">
+  <component name="RunManager" selected="Application.Random_numbers_8_1">
     <configuration name="From_1_to_99_Conditional_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="From_1_to_99_Conditional_statements" />
       <module name="Full-time_education_Home_Task_2" />
@@ -162,15 +178,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="From_99_to_1_Conditional_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="From_99_to_1_Conditional_statements" />
+    <configuration name="Random_nubres_of_8" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random_nubres_of_8" />
       <module name="Full-time_education_Home_Task_2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Random_nubres_of_8" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Random_nubres_of_8" />
+    <configuration name="Random_numbers_8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random_numbers_8_1" />
       <module name="Full-time_education_Home_Task_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,19 +214,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Random_nubres_of_8" />
-      <item itemvalue="Application.From_99_to_1_Conditional_statements" />
       <item itemvalue="Application.From_99_to_1_Arrays" />
       <item itemvalue="Application.From_1_to_99_Conditional_statements" />
       <item itemvalue="Application.Switch" />
       <item itemvalue="Application.Random_numbers_of_8" />
+      <item itemvalue="Application.Random_numbers_8_1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.From_99_to_1_Arrays" />
-        <item itemvalue="Application.Random_numbers_of_8" />
+        <item itemvalue="Application.Random_numbers_8_1" />
         <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.Random_numbers_of_8" />
+        <item itemvalue="Application.From_99_to_1_Arrays" />
         <item itemvalue="Application.From_1_to_99_Conditional_statements" />
-        <item itemvalue="Application.From_99_to_1_Conditional_statements" />
       </list>
     </recent_temporary>
   </component>
@@ -226,16 +242,17 @@
       <updated>1555110682585</updated>
       <workItem from="1555110685445" duration="4031000" />
       <workItem from="1555159265284" duration="10488000" />
+      <workItem from="1555176339151" duration="7609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14519000" />
+    <option name="totallyTimeSpent" value="22128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -246,13 +263,13 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Maven" order="0" />
@@ -279,52 +296,53 @@
         <state relative-caret-position="-1734" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/From_1_to_99.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/From_1_to_99_Conditional_statements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/From_1_to_99.java" />
     <entry file="file://$PROJECT_DIR$/src/From_99_to_1_Conditional_statements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="34">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/From_1_to_99_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="60" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="60" />
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/From_99_to_1_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Random_numbers_of_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Switch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Random_numbers_of_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/From_1_to_99_Conditional_statements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Random_numbers_8_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
