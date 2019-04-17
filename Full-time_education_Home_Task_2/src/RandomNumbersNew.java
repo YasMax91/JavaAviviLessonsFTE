@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Random_numbers_8_1 {
+public class RandomNumbersNew {
     public static void main(String[] args) {
         int[] arr = new int[8];
         arr[0] = 6;
