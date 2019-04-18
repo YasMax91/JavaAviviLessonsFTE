@@ -4,3 +4,7 @@ creating variables and outputting them to the console
 creating shapes
 # JavaAviviLessonsFTE Home Task 2
 work with arrays and conditional operators
+# JavaAviviLessonsFTE Home Task 3
+code convention structuring and bubble sorting
+
+
